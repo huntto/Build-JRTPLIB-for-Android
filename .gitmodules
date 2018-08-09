@@ -1,0 +1,6 @@
+[submodule "JRTPLIB"]
+	path = JRTPLIB
+	url = https://github.com/j0r1/JRTPLIB
+[submodule "JThread"]
+	path = JThread
+	url = https://github.com/j0r1/JThread
